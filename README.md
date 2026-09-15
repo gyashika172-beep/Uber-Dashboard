@@ -5,7 +5,7 @@
 
 An interactive Power BI dashboard developed to analyze Uber Bike ride performance across bookings, revenue, distance, pickup locations, vehicle categories, and customer/driver ratings. The dashboard transforms raw Kaggle data into actionable business insights using Power Query, DAX, data modeling, and interactive visualizations.
 
-Business Problems
+# Business Problems
 
 The dashboard addresses key business questions:
 
@@ -18,7 +18,7 @@ The dashboard addresses key business questions:
 * Which ride/vehicle categories contribute to overall performance?
 * Where are the opportunities to reduce booking losses and improve operations?
 
-🎯 Goal of the Dashboard
+# 🎯 Goal of the Dashboard
 
 The main goal is to provide a centralized and interactive view of Uber Bike operations and performance.
 
@@ -32,7 +32,7 @@ The dashboard helps stakeholders:
 * Identify operational improvement opportunities
 * Make faster, data-driven business decisions
 
-Tech Stack
+# Tech Stack
 
 * Power BI – Dashboard development and visualization
 * DAX – Measures, KPIs, calculations and aggregations
@@ -42,9 +42,9 @@ Tech Stack
 * File Format – CSV
 * Visualizations – KPI Cards, Donut Charts, Bar Charts, Line/Area Charts, Buttons and Interactive Navigation
 
-Key Features & Visuals
+# Key Features & Visuals
 
-KPI Cards
+# KPI Cards
 
 The dashboard provides an instant overview of major business metrics:
 
@@ -93,7 +93,7 @@ These metrics provide visibility into customer and driver satisfaction.
 
 Interactive vehicle/ride category navigation allows users to explore performance across different ride categories and understand their contribution to overall operations.
 
-💡 Key Insights
+# 💡 Key Insights
 
 * 14K completed bookings compared with 8K lost bookings highlights an opportunity to investigate cancellations and incomplete rides.
 * Approximately ₹7.8M revenue provides a high-level view of financial performance.
@@ -102,7 +102,7 @@ Interactive vehicle/ride category navigation allows users to explore performance
 * Customer rating of 4.40 and driver rating of 4.23 indicate strong overall service ratings within the analyzed dataset.
 * An average ride distance of 24.65 provides insight into typical trip characteristics.
 
- 🚀 Business Impact
+# 🚀 Business Impact
 
 * Helps identify high-demand locations for better driver allocation.
 * Highlights lost booking opportunities and areas requiring operational attention.
@@ -112,6 +112,8 @@ Interactive vehicle/ride category navigation allows users to explore performance
 * Enables faster KPI-driven decision-making.
 * Converts raw ride data into actionable business insights for operations and management teams.
 
- 🏆 Project Outcome
+# 🏆 Project Outcome
 
 This project demonstrates my ability to transform raw data into an interactive Business Intelligence solution using Power BI. It combines data cleaning, Power Query, data modeling, DAX measures, KPI development, and data visualization to deliver meaningful insights and support data-driven business decisions.
+
+Snapshot- https://github.com/gyashika172-beep/Uber-Dashboard/blob/main/Uber%20Dashboard%20Image.png
